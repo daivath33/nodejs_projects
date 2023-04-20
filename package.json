@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daivath33/nodejs_projects.git"
+  },
+  "author": "daiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daivath33/nodejs_projects/issues"
+  },
+  "homepage": "https://github.com/daivath33/nodejs_projects#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
